@@ -5,8 +5,8 @@ namespace KABBOUCHI\NovaImpersonate\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
 use Illuminate\Support\Str;
-use Lab404\Impersonate\Services\ImpersonateManager;
 use Laravel\Nova\Actions\ActionEvent;
+use Rickycezar\Impersonate\Services\ImpersonateManager;
 
 class ImpersonateController extends Controller
 {
