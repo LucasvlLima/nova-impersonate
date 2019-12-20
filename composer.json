@@ -8,7 +8,7 @@
     "license": "MIT",
     "require": {
         "php": ">=7.1.0",
-        "incorp/laravel-jwt-impersonate": "*"
+        "rickycezar/laravel-jwt-impersonate": "*"
     },
     "autoload": {
         "psr-4": {
