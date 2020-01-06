@@ -8,8 +8,13 @@
     "license": "MIT",
     "require": {
         "php": ">=7.1.0",
-        "rickycezar/laravel-jwt-impersonate": "*"
+        "rickycezar/laravel-jwt-impersonate": "dev-master"
     },
+    "repositories": [{
+        "type": "vcs",
+        "url": "https://github.com/lucasvllima/laravel-jwt-impersonate"
+    }
+    ],
     "autoload": {
         "psr-4": {
             "KABBOUCHI\\NovaImpersonate\\": "src/"
