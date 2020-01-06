@@ -27,7 +27,7 @@ return [
     /*
      * false (nova path), true or <url>
      */
-    'redirect_back' => true,
+    'redirect_back' => false,
     /*
      * Redirect path
      */
